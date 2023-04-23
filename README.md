@@ -1,5 +1,8 @@
-# Greetings and welcome to my readme.
+# Greetings and welcome to my Github account.
 
-I am currently learning how to create coding which will no longer be hosted on a platform known as "Autocode", to resolve this I have signed up for Autocode and I wll use Autocode's CLI and whatnot.
+## Who Am I?
 
-If you have any questions or concerns, you can contact me through Discord at XX_XtremePro_XX#1484.
+I am XX_XtremePro_XX or XtremeProX97, I currently know how to code or script in a service known as "Autocode".
+
+## Ways to contact me:
+Discord: XX_XtremePro_XX#1484
