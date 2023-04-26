@@ -1,12 +1,30 @@
-# Greetings and welcome to my Github account.
+# Greetings and welcome to my GitHub Account.
+Hi and welcome to my GitHub account.
 
-## Who Am I?
+## What languages do I know?
 
-I am XX_XtremePro_XX or XtremeProX97, I currently know how to code or script in a service known as "Autocode".
+So far, I know these languages:
 
-## Which languages can I use?
+- node.js.
+- Javascript.
 
-- node.js This is the only language I know of, I am sorry for the inconveince(s) caused.
+## What am I good at?
 
-## Ways to contact me:
-Discord: XX_XtremePro_XX#1484
+I am good at coding Discord bots with multiple features, such as basic moderation, manage Google assets, Roblox Groups and other features.
+
+I am also good at helping people by coding and building Discord bots for them, but in order to do so, I'll need them to provide a Discord bot name, a Discord bot profile picture and other configuration settings and systems they want to have for their Discord bot.
+
+## Is there a way you can get into contact me if you want a custom Discord bot?
+
+Yes, there is currently a way you can reach out to me. These are how below:
+- Discord (XX_XtremePro_XX#1484)
+- GitHub DMs.
+- Contacting me on the Autocode Discord server (https://discord.gg/autocode).
+
+## Do I have any permanent Discord bot projects?
+
+Yes, I currently do have 1 Discord bot project I constantly work on. The name of the Discord bot is known as "Terminal". These are it's features:
+- Multi Server compatible.
+- Basic moderation commands.
+- Manage Google Drive based assets.
+- Roblox Group management. (Promotions & Demotions within the Roblox Group(s)).
