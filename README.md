@@ -27,4 +27,4 @@ Yes, I currently do have 1 Discord bot project I constantly work on. The name of
 - Multi Server compatible.
 - Basic moderation commands.
 - Manage Google Drive based assets.
-- Roblox Group management. (Promotions & Demotions within the Roblox Group(s)).
+- Roblox Group management. (Promotions & Demotions within the Roblox Group(s).
