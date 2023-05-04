@@ -28,3 +28,6 @@ Yes, I currently do have 1 Discord bot project I constantly work on. The name of
 - Basic moderation commands.
 - Manage Google Drive based assets.
 - Roblox Group management. (Promotions & Demotions within the Roblox Group(s).
+
+## Is there a way I can hire you to create a Discord bot?
+So far, unfortunately, the answer for this one is no, the reason for my answer is that I don't have a way to add new Discord bots to my Autocode Project and I can't locally host it right now, as soon as I get funding and money then the answer will change to "Yes".
