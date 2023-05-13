@@ -14,7 +14,7 @@ I am good at coding Discord bots with multiple features, such as basic moderatio
 
 I am also good at helping people by coding and building Discord bots for them, but in order to do so, I'll need them to provide a Discord bot name, a Discord bot profile picture and other configuration settings and systems they want to have for their Discord bot.
 
-## Is there a way you can get into contact me if you want a custom Discord bot?
+## Is there a way you can get into contact with me if you want a custom Discord bot?
 
 Yes, there is currently a way you can reach out to me. These are how below:
 - Discord (XX_XtremePro_XX#1484)
