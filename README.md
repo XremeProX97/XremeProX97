@@ -31,3 +31,11 @@ Yes, I currently do have 1 Discord bot project I constantly work on. The name of
 
 ## Is there a way I can hire you to create a Discord bot?
 So far, unfortunately, the answer for this one is no, the reason for my answer is that I don't have a way to add new Discord bots to my Autocode Project and I can't locally host it right now, as soon as I get funding and money then the answer will change to "Yes".
+
+## How do you plan to work on Discord bots with more advanced features with Autocode?
+
+To answer that question, Autocode is curently attempting to update their Discord API so we can do more advanced features as we need to do.
+
+## Do you know how to make automated moderation systems?
+
+Yes, I know how to do that but to do so I need some APIs to do that job since I don't know how to do it manually.
