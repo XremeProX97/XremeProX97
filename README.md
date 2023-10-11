@@ -39,3 +39,7 @@ To answer that question, Autocode is curently attempting to update their Discord
 ## Do you know how to make automated moderation systems?
 
 Yes, I know how to do that but to do so I need some APIs to do that job since I don't know how to do it manually.
+
+## Do you know how to create Ticketing systems?
+
+Yes, I know how to do that and I know how to make it advanced by linking it to the Airtable database so it can make it more... Helpful as well as beneficial to the moderation staff of your Discord server and whatnot.
