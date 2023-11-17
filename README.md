@@ -43,3 +43,15 @@ Yes, I know how to do that but to do so I need some APIs to do that job since I 
 ## Do you know how to create Ticketing systems?
 
 Yes, I know how to do that and I know how to make it advanced by linking it to the Airtable database so it can make it more... Helpful as well as beneficial to the moderation staff of your Discord server and whatnot.
+
+## What is my perferred payment method?
+
+My current perferred payment method are the following:
+
+- PayPal.
+- Klana.
+- As well as other secure payment methods.
+
+## WHo are your client(s) so far?
+
+Sadly I can not reveal my current client list due to certain... Privacy reasons but all I can say is that they hired me for the right amount of money.
