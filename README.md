@@ -52,6 +52,6 @@ My current perferred payment method are the following:
 - Klana.
 - As well as other secure payment methods.
 
-## WHo are your client(s) so far?
+## Who are your client(s) so far?
 
 Sadly I can not reveal my current client list due to certain... Privacy reasons but all I can say is that they hired me for the right amount of money.
