@@ -23,7 +23,7 @@ Yes, there is currently a way you can reach out to me. These are how below:
 
 ## Do I have any permanent Discord bot projects?
 
-Yes, I currently do have 1 Discord bot project I constantly work on. The name of the Discord bot is known as "Terminal". These are it's features:
+Yes, I currently do have 1 Discord bot project I constantly work on. The name of the Discord bot is known as "Map Development Hub". These are it's features:
 - Multi Server compatible.
 - Basic moderation commands.
 - Manage Google Drive based assets.
